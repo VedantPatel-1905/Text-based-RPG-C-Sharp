@@ -1,0 +1,29 @@
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.exe
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.deps.json
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.runtimeconfig.json
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.dll
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.pdb
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.csproj.AssemblyReference.cache
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.AssemblyInfoInputs.cache
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.AssemblyInfo.cs
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.csproj.CoreCompileInputs.cache
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.dll
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\refint\Text based RPG.dll
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.pdb
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.genruntimeconfig.cache
+D:\Georgian college\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\ref\Text based RPG.dll
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.exe
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.deps.json
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.runtimeconfig.json
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.dll
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\bin\Debug\net7.0\Text based RPG.pdb
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.AssemblyInfoInputs.cache
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.AssemblyInfo.cs
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.csproj.CoreCompileInputs.cache
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.dll
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\refint\Text based RPG.dll
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.pdb
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\Text based RPG.genruntimeconfig.cache
+D:\Georgian college\Semester 1\Programming Fundamentals\C#\Text based RPG\obj\Debug\net7.0\ref\Text based RPG.dll
